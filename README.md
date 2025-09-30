@@ -29,7 +29,7 @@ Our Student Success Predictor provides:
 - Interactive interface with real-time predictions
 - Visual performance analysis through confusion matrix
 
-## ✨ Features
+## Features
 
 ### Prediction Modes
 - **🚀 Power Mode**: Uses all available student features for comprehensive analysis
