@@ -15,7 +15,7 @@ A machine learning project that predicts student academic success using various 
 - [License](#license)
 - [Contact](#contact)
 
-## 🎯 Project Overview
+## Project Overview
 
 This project aims to help educational institutions identify at-risk students early in their academic journey. By leveraging machine learning algorithms, specifically Logistic Regression, the model analyzes various student characteristics and academic performance indicators to predict academic success.
 
@@ -29,7 +29,7 @@ Our Student Success Predictor provides:
 - Interactive interface with real-time predictions
 - Visual performance analysis through confusion matrix
 
-## Features
+## Features ✨
 
 ### Prediction Modes
 - **🚀 Power Mode**: Uses all available student features for comprehensive analysis
