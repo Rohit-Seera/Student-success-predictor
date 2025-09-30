@@ -29,7 +29,7 @@ Our Student Success Predictor provides:
 - Interactive interface with real-time predictions
 - Visual performance analysis through confusion matrix
 
-## Features ✨
+## Features 
 
 ### Prediction Modes
 - **🚀 Power Mode**: Uses all available student features for comprehensive analysis
@@ -49,7 +49,7 @@ Our Student Success Predictor provides:
 - Model performance visualization
 - Real-time prediction capabilities
 
-## 📊 Dataset
+## Dataset
 
 The model uses the `University_Student_Dataset_Final_with_Pass_Fail.csv` dataset containing student information across multiple categories:
 
@@ -68,7 +68,7 @@ The model uses the `University_Student_Dataset_Final_with_Pass_Fail.csv` dataset
 - Peer_Group, Bullying, Study_Space
 - Learning_Style, Tutoring, Mentoring, Sports_Participation
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **pandas** - Data manipulation and analysis
@@ -77,7 +77,7 @@ The model uses the `University_Student_Dataset_Final_with_Pass_Fail.csv` dataset
 - **matplotlib** - Data visualization
 - **seaborn** - Statistical data visualization
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -100,7 +100,7 @@ The model uses the `University_Student_Dataset_Final_with_Pass_Fail.csv` dataset
    - Ensure you have the `University_Student_Dataset_Final_with_Pass_Fail.csv` file
    - Place it in the same directory as the Python script
 
-## 🚀 Usage
+## Usage
 
 ### Running the Application
 
@@ -134,7 +134,7 @@ Enter value for Class_Participation: 80
 ✅ You are likely to Pass! 🎉
 ```
 
-## 📈 Model Performance
+## Model Performance
 
 The model uses **Logistic Regression** with the following configuration:
 - **Algorithm**: Logistic Regression
@@ -153,7 +153,7 @@ The model uses **Logistic Regression** with the following configuration:
 - **Standard Scaling** for feature normalization
 - **Train-Test Split**: 80-20 ratio
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 student-success-predictor/
@@ -166,7 +166,7 @@ student-success-predictor/
     └── confusion_matrix.png      # Model performance visualization
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -192,13 +192,13 @@ Contributions are welcome! Here's how you can help:
 - Add feature importance analysis
 - Include more comprehensive error handling
 
-## 📞 Contact
+## Contact
 
 Rohit Meena - rohitseera777.gmail@example.com
 
 Project Link: [https://github.com/Rohit-Seera/Student-success-predictor](https://github.com/Rohit-Seera/Student-success-predictor)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Thanks to the creators of the University Student Dataset
 - Scikit-learn community for excellent documentation
